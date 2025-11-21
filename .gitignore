@@ -13,3 +13,4 @@ sweep_*.yaml
 test_dataset/
 vit_mlp_module/saved_models/
 vit_mlp_module/*.pth
+*.pth
